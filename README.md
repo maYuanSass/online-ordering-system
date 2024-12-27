@@ -4,11 +4,11 @@
 
 # 二、系统架构
 
-###### ?????前端：vue| elementui
+###### 前端：vue| elementui
 
-###### ?????后端：springboot | mybatis?
+###### 后端：springboot | mybatis?
 
-###### ?????环境：jdk1.8+ | mysql8.0+ | maven
+###### 环境：jdk1.8+ | mysql8.0+ | maven
 
 # 三、代码及数据库
 ![0](./img/1.jpg)
